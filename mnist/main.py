@@ -138,4 +138,5 @@ def main():
 
 
 if __name__ == '__main__':
+    print("Hello from my fork: running on Huawei ECS")
     main()
